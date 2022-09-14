@@ -1,0 +1,3 @@
+Check if the given node is null. If null, then return from the function.
+Check if it is a leaf node. If the node is a leaf node, then print its data.
+If in the above step, the node is not a leaf node then check if the left and right children of node exist. If yes then call the function for left and right child of the node recursively.
